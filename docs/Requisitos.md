@@ -1,0 +1,13 @@
+# Requisitos
+
+## Funcionais
+
+- 
+- 
+- 
+
+## Não Funcionais
+
+- 
+- 
+- 
